@@ -182,14 +182,14 @@ juan|RETIRO|200
 
 # Restricciones cumplidas
 
-✅ Solo lenguaje C  
-✅ Sin sockets  
-✅ Sin bases de datos  
-✅ Uso de semáforos  
-✅ Uso de memoria compartida  
-✅ Uso de hilos  
-✅ Uso de archivos planos  
-✅ Uso de ncurses  
+- Solo lenguaje C  
+- Sin sockets  
+- Sin gbd 
+- Uso de semáforos  
+- Uso de memoria compartida  
+- Uso de hilos  
+- Uso de archivos planos  
+- Uso de ncurses  
 
 ---
 
